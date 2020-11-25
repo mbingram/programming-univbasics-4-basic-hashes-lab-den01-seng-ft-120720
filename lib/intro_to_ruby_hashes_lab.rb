@@ -1,5 +1,5 @@
 def new_hash
-  new_hash[' '] = 0
+  new_hash[' ']
 end
 
 def my_hash
