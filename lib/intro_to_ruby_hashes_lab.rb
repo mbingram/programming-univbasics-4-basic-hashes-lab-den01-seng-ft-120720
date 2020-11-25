@@ -2,8 +2,9 @@ def new_hash
   new_hash = { }
 end
 
-def my_hash
-  my_hash[:name] = "value"
+def my_hash = {
+  name: "pepper"
+}
 end
 
 def pioneer
